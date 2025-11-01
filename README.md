@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/Edshy/blog-preview-card)
-- Live Site URL: [Github page](https:edshy.github.io/blog-preview-card/)
+- Live Site URL: [Github page](https://edshy.github.io/blog-preview-card/)
 
 ## My process
 
